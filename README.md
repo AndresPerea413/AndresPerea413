@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing programs for scientific purposes
 - 🌱 I’m currently learning c++, computer language
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me https://github.com/AndresPerea413
+- 📫 How to reach me https://github.com/CarlosAndresPerea
 
 <!---
 AndresPerea413/AndresPerea413 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
